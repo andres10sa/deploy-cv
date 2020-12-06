@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deploy-cv/static/css/main.06e3f0d0.chunk.css",
-    "main.js": "/deploy-cv/static/js/main.8850d158.chunk.js",
-    "main.js.map": "/deploy-cv/static/js/main.8850d158.chunk.js.map",
+    "main.js": "/deploy-cv/static/js/main.14b52556.chunk.js",
+    "main.js.map": "/deploy-cv/static/js/main.14b52556.chunk.js.map",
     "runtime-main.js": "/deploy-cv/static/js/runtime-main.a09097ab.js",
     "runtime-main.js.map": "/deploy-cv/static/js/runtime-main.a09097ab.js.map",
     "static/js/2.a3cabdfb.chunk.js": "/deploy-cv/static/js/2.a3cabdfb.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.06e3f0d0.chunk.css.map": "/deploy-cv/static/css/main.06e3f0d0.chunk.css.map",
     "static/js/2.a3cabdfb.chunk.js.LICENSE.txt": "/deploy-cv/static/js/2.a3cabdfb.chunk.js.LICENSE.txt",
     "static/media/bictia1.b19fb8df.png": "/deploy-cv/static/media/bictia1.b19fb8df.png",
+    "static/media/bictia2.9b4f34e3.png": "/deploy-cv/static/media/bictia2.9b4f34e3.png",
     "static/media/cv.bdd60d74.jpg": "/deploy-cv/static/media/cv.bdd60d74.jpg",
     "static/media/cvreact.83124ddc.PNG": "/deploy-cv/static/media/cvreact.83124ddc.PNG",
     "static/media/fenix.ebde90aa.PNG": "/deploy-cv/static/media/fenix.ebde90aa.PNG",
@@ -24,6 +25,6 @@
     "static/js/runtime-main.a09097ab.js",
     "static/js/2.a3cabdfb.chunk.js",
     "static/css/main.06e3f0d0.chunk.css",
-    "static/js/main.8850d158.chunk.js"
+    "static/js/main.14b52556.chunk.js"
   ]
 }
