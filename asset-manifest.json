@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deploy-cv/static/css/main.06e3f0d0.chunk.css",
-    "main.js": "/deploy-cv/static/js/main.37103b43.chunk.js",
-    "main.js.map": "/deploy-cv/static/js/main.37103b43.chunk.js.map",
+    "main.js": "/deploy-cv/static/js/main.47a230c6.chunk.js",
+    "main.js.map": "/deploy-cv/static/js/main.47a230c6.chunk.js.map",
     "runtime-main.js": "/deploy-cv/static/js/runtime-main.a09097ab.js",
     "runtime-main.js.map": "/deploy-cv/static/js/runtime-main.a09097ab.js.map",
     "static/js/2.a3cabdfb.chunk.js": "/deploy-cv/static/js/2.a3cabdfb.chunk.js",
@@ -16,8 +16,10 @@
     "static/media/bictia2.9b4f34e3.png": "/deploy-cv/static/media/bictia2.9b4f34e3.png",
     "static/media/cv.bdd60d74.jpg": "/deploy-cv/static/media/cv.bdd60d74.jpg",
     "static/media/cvreact.f000d96c.PNG": "/deploy-cv/static/media/cvreact.f000d96c.PNG",
+    "static/media/drag.4661f4d5.png": "/deploy-cv/static/media/drag.4661f4d5.png",
     "static/media/fenix.ebde90aa.PNG": "/deploy-cv/static/media/fenix.ebde90aa.PNG",
     "static/media/henry.d87290cf.png": "/deploy-cv/static/media/henry.d87290cf.png",
+    "static/media/lapiz.ee736796.png": "/deploy-cv/static/media/lapiz.ee736796.png",
     "static/media/moonbank.d0e256d6.jpg": "/deploy-cv/static/media/moonbank.d0e256d6.jpg",
     "static/media/nasdrovia.417e9f97.jpg": "/deploy-cv/static/media/nasdrovia.417e9f97.jpg",
     "static/media/redux.26451db1.png": "/deploy-cv/static/media/redux.26451db1.png"
@@ -26,6 +28,6 @@
     "static/js/runtime-main.a09097ab.js",
     "static/js/2.a3cabdfb.chunk.js",
     "static/css/main.06e3f0d0.chunk.css",
-    "static/js/main.37103b43.chunk.js"
+    "static/js/main.47a230c6.chunk.js"
   ]
 }
